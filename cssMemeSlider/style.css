@@ -95,14 +95,14 @@ body {
 
 .slider__control {
     display: flex;
-    column-gap: 0.75rem;
+    column-gap: 0.1rem;
 }
 
 .slider__btn {
     display: inline-block;
     width: 0.5rem;
     height: 0.5rem;
-    padding: 0.3rem;
+    padding: 0.5rem;
     border: 0.1rem solid #B939D3ed;
     border-radius: 50%;
     cursor: pointer;
@@ -111,8 +111,9 @@ body {
 }
 
 .slider__btn--wrap {
-    padding: 0.2rem;
+    padding: 0.8rem;
     cursor: pointer;
+    height: 1.6rem;
 }
 
 .slider__control .slider__btn--wrap:hover .slider__btn {

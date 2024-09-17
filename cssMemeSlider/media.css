@@ -79,6 +79,15 @@
     }
 
     .slider__content {
-        height: 6rem;
+        height: 7rem;
+    }
+
+    .slider__btn {
+        padding: 0.3rem;
+    }
+
+    .slider__btn--wrap {
+        padding: 0.5rem;
+        height: 1.2rem;
     }
 }
